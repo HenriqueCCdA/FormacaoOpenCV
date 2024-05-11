@@ -4,4 +4,4 @@
 2. [Curso de Visão computacional: detecção de texto em placas de carro](https://cursos.alura.com.br/course/visao-computacional-deteccao-texto-placas-carro): Inicio 15/03/2024 - Fim 19/03/2024
 4. [Curso de Visão computacional: Hand Tracking com OpenCV](https://cursos.alura.com.br/course/visao-computacional-hand-tracking-opencv): Inicio 19/03/2024 - Fim 29/03/2024
 5. [Curso de Visão Computacional: detecção de movimento com OpenCV](https://cursos.alura.com.br/course/visao-computacional-deteccao-movimento-opencv): Inicio 21/04/2024 - Fim 28/04/2024
-6. [Curso de Visão Computacional: análise facial](https://cursos.alura.com.br/course/visao-computacional-analise-facial): Inicio 28/04/2024 - Fim --/--/----
+6. [Curso de Visão Computacional: análise facial](https://cursos.alura.com.br/course/visao-computacional-analise-facial): Inicio 28/04/2024 - Fim 11/05/2024
